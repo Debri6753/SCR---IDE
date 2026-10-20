@@ -184,7 +184,7 @@ def telegram():
     webbrowser.open("t.me/FFLHP")
 
 def about():
-    messagebox.showinfo("About SCR")
+    messagebox.showinfo("About SCR","Very big info programm")
 
 def open_file(event=None):
     file_path = filedialog.askopenfilename(
