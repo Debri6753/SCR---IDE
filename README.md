@@ -34,8 +34,8 @@ No third-party dependencies required.
 ## Installation & Usage
 
 1. Clone or download the repository.
-2. (Optional) Place an `image.png` in the same directory as `scr.py` to use it as the app icon.
+2. (Optional) Place an `image.png` in the same directory as `main.py` to use it as the app icon.
 3. Run the editor:
 
 ```bash
-python scr.py
+python main.py
